@@ -1,0 +1,8 @@
+{
+  "name": "Cafe Melora — Modern Cafe & Beverage Bar",
+  "description": "Handcrafted iced coffees, rich milkshakes, Ceylon bubble teas, artisan toasties & sweets. Order online at cafemelora.lk.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
